@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+int b,i,p,r=1;
+cout<<"enter base and power";
+cin>>b,p;
+    for(i=1;i<=p;i++)
+    {
+        r=r*b;
+    }
+    cout<<r;
+    cout<<endl;
+}
+
