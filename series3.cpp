@@ -1,3 +1,4 @@
+" 1/1! + 2/2! +3/3! + ........upto n"
 #include<iostream>
 #include<conio.h>
 using namespace std;
